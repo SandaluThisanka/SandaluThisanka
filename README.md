@@ -1,6 +1,8 @@
-# <div align="center">My Digital Space! 👋
+# <div align="center">My Digital Space! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 
 #### 💻 Programming Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
@@ -38,9 +40,9 @@
 - 👨‍💻 Software Engineering student at NIBM
 - 💻 Full Stack Developer
 - 🌱 Currently focusing on web and mobile development
-- 📫 How to reach me: [Your preferred contact method]
+- 📫 How to reach me: MAHNDSE242F-013@student.nibm.lk
 
-### �️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 <div align="center">
   
@@ -81,7 +83,7 @@
 
 </div>
 
-### <div align="center">📊 GitHub Statistics</div>
+### <div align="center">📊 GitHub Statistics <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></div>
 
 <div align="center">
   
@@ -99,10 +101,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandaluThisanka&bg_color=0d1117&color=6366f1&line=6366f1&point=FFFFFF&hide_border=true" />
 </div>
 
-### <div align="center">🌟 Profile Views</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SandaluThisanka/count.svg" />
-</div>
 
 ---
 ### <div align="center">💭 Random Dev Quote</div>
