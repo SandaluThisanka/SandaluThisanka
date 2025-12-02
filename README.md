@@ -93,9 +93,9 @@
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SandaluThisanka&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Sandalu Thisanka github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaluThisanka&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=SandaluThisanka&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117"/>
+ 
+ <img width="41%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=SandaluThisanka&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117"/>
   
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandaluThisanka&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
   
