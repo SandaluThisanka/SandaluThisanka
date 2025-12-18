@@ -93,13 +93,25 @@
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=SandaluThisanka&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117"/>
- 
- <img width="41%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=SandaluThisanka&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117"/>
+  <!-- Stats -->
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api?username=SandaluThisanka&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaluThisanka&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<!-- Streak -->
+<img width="92%"
+src="https://streak-stats.demolab.com?user=SandaluThisanka&theme=tokyonight&hide_border=true"/>
+
+  <br/>
   
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandaluThisanka&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=SandaluThisanka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <!-- Trophy fallback: github-profile-trophy service is currently unreliable, so show followers badge instead -->
+  <a href="https://github.com/SandaluThisanka" target="_blank">
+    <img width="220" src="https://img.shields.io/github/followers/SandaluThisanka?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
 </div>
 
 ### <div align="center">📈 Contribution Graph</div>
