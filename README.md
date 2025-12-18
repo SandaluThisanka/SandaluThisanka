@@ -26,16 +26,11 @@
 
 <h3 align="center">A passionate Software Engineer studying at NIBM. Focused on developing innovative solutions and exploring new technologies.</h3>
 
-<p align="center">
-  <a href="https://github.com/SandaluThisanka">
-    <img src="https://img.shields.io/github/followers/SandaluThisanka?label=Follow&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/sandalu-thisanka-719564334">
-    <img src="https://img.shields.io/badge/LinkedIn-Sandalu%20Thisanka-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/sandalu-thisanka-719564334/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/940781630201" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:sandaluthisankaa@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://sandaluthisanka.github.io/Sandalu_Portfolio/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 👨‍💻 Software Engineering student at NIBM
 - 💻 Full Stack Developer
@@ -84,9 +79,11 @@
 </div>
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ### <div align="center">📊 GitHub Statistics <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></div>
@@ -141,3 +138,7 @@ src="https://streak-stats.demolab.com?user=SandaluThisanka&theme=tokyonight&hide
 - UI/UX Design
 
 > "Building innovative solutions one line of code at a time"
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
