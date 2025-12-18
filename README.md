@@ -126,6 +126,14 @@ src="https://streak-stats.demolab.com?user=SandaluThisanka&theme=tokyonight&hide
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
+## 🎬 Animated Dev Life
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+
+</div>
+
 ### 🎯 Focus Areas
 - Web Development (React, Node.js)
 - Mobile Development (Flutter)
